@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  shards-test-indirect:
+    github: KCErb/shards-test-indirect
+    commit: fd428290897d40e032e956229cc397587dba7001
+
